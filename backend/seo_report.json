@@ -1,0 +1,42 @@
+{
+  "title": "Quickstart | Firecrawl",
+  "metaDescription": "Firecrawl allows you to turn entire websites into LLM-ready markdown",
+  "h1Count": 1,
+  "h2Count": 6,
+  "imageWithoutAlt": 0,
+  "internalLinks": [
+    "https://docs.firecrawl.dev/api-reference/introduction",
+    "https://docs.firecrawl.dev/sdks/python",
+    "https://docs.firecrawl.dev/sdks/node",
+    "https://docs.firecrawl.dev/sdks/go",
+    "https://docs.firecrawl.dev/sdks/rust"
+  ],
+  "externalLinks": [
+    "https://firecrawl.dev",
+    "https://github.com/mendableai/firecrawl",
+    "https://firecrawl.betteruptime.com",
+    "https://github.com/mendableai/firecrawl",
+    "https://firecrawl.dev/playground",
+    "https://firecrawl.dev/blog",
+    "https://discord.gg/gSmWdAkdwd",
+    "https://calendly.com/d/cj83-ngq-knk/meet-firecrawl",
+    "https://firecrawl.dev?ref=github",
+    "https://firecrawl.dev/playground",
+    "https://python.langchain.com/docs/integrations/document_loaders/firecrawl/",
+    "https://js.langchain.com/docs/integrations/document_loaders/web_loaders/firecrawl",
+    "https://docs.llamaindex.ai/en/latest/examples/data_connectors/WebPageDemo/#using-firecrawl-reader",
+    "https://dify.ai/blog/dify-ai-blog-integrated-with-firecrawl",
+    "https://docs.langflow.org/",
+    "https://docs.crewai.com/",
+    "https://docs.flowiseai.com/integrations/langchain/document-loaders/firecrawl",
+    "https://docs.praison.ai/firecrawl/",
+    "https://zapier.com/apps/firecrawl/integrations",
+    "https://firecrawl.dev",
+    "https://github.com/mendableai/firecrawl/blob/main/CONTRIBUTING.md",
+    "https://x.com/mendableai",
+    "https://github.com/mendableai/firecrawl",
+    "https://www.linkedin.com/company/sideguide-dev/",
+    "https://mintlify.com?utm_campaign=poweredBy&utm_medium=docs&utm_source=docs.firecrawl.dev"
+  ],
+  "brokenLinks": []
+}

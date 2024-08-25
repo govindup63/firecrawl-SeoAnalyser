@@ -1,0 +1,32 @@
+
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build directories
+frontend/dist/
+frontend/node_modules/
+backend/node_modules/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.swp
+
+# Package lock files (if using npm)
+package-lock.json
+
+# Yarn lock file (if using yarn)
+yarn.lock
