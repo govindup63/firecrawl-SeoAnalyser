@@ -2,7 +2,6 @@ Certainly! Here’s a `README.md` file for your SEO Analyzer project:
 
 **`README.md`**
 
-```markdown
 # SEO Analyzer
 
 SEO Analyzer is a tool that provides detailed SEO analysis of a given URL. This project utilizes the Firecrawl SDK to scrape web pages and extract SEO metrics. The application includes both a frontend and a backend to facilitate data analysis and presentation.
